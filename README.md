@@ -21,7 +21,8 @@
     <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=a-kesss&style=flat-square&color=blue" alt="" align="center"/>
 </div>
----
+
+
 
 <h2>
     I am Frontend-Developer from Vladikavkaz <img              src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2p0eW1scXE3NTZhYWYwbzdtb2xsOWVpcWYydmwyc25lbGpjOWFhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HBT32wNRCwQXnxCXGr/giphy.gif" height='30' width="30"> 
