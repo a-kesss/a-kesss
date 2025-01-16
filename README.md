@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @a-kesss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-a-kesss/a-kesss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <h1>Hi, My name Azamat</h1>
+  <h3>Frontend-Developer from Vladikavkaz</h3>
+</div>
+<div class="social-media-container">
+    <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+        <img src="https://shield.io/linkedin-badge-url" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/yourprofile" target="_blank">
+        <img src="https://shield.io/twitter-badge-url" alt="Twitter" />
+    </a>
+    <a href="https://t.me/yourprofile" target="_blank">
+        <img src="https://shield.io/telegram-badge-url" alt="Telegram" />
+    </a>
+</div>
