@@ -16,8 +16,12 @@
 </div>
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK" href="https://vk.com/kesaev1"/>
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" href="https://t.me/a_kesss"/>
+    <a href="https://vk.com/kesaev1">
+  <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"/>
+    </a>
+    <a href="https://t.me/a_kesss">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+    </a>
 </div>
 
 </body>
