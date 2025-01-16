@@ -1,6 +1,6 @@
 <h1>
     Hi, My name Azamat
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVwbTJibzhqa3NyY3A1M2F0NjEyOG9yb2J0YTV1Z2pvN3p3dXZ0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" width="30px"/>
 </h1>
 
 <div id="header" align="center">
