@@ -21,8 +21,26 @@
     <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=a-kesss&style=flat-square&color=blue" alt="" align="center"/>
 </div>
+---
 
-### :woman_technologist: About Me :
-I am Frontend-Developer from Vladikavkaz <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2p0eW1scXE3NTZhYWYwbzdtb2xsOWVpcWYydmwyc25lbGpjOWFhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HBT32wNRCwQXnxCXGr/giphy.gif" height='30' width="30"> 
+<h2>
+    I am Frontend-Developer from Vladikavkaz <img              src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2p0eW1scXE3NTZhYWYwbzdtb2xsOWVpcWYydmwyc25lbGpjOWFhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HBT32wNRCwQXnxCXGr/giphy.gif" height='30' width="30"> 
+</h2>
 
+### :computer: I can:
+
+- :dart: Develop React components.
+
+- :game_die: Develop client application logic JS, React-Redux.
+
+- :page_with_curl: Read and write readable code
+
+- :sunglasses: Confident knowledge of React, Redux, HTML, CSS (I can write styles without a framework),
+
+- :space_invader: I understand the standards of adaptive layout.
+
+- :globe_with_meridians: Have experience working with backend
+
+- :pizza: Team development experience with
+using the Git control system
 
