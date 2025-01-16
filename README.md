@@ -23,6 +23,6 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am Frontend-Developer from Vladikavkaz <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2p0eW1scXE3NTZhYWYwbzdtb2xsOWVpcWYydmwyc25lbGpjOWFhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HBT32wNRCwQXnxCXGr/giphy.gif" height='20' width="30"> 
+I am Frontend-Developer from Vladikavkaz <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2p0eW1scXE3NTZhYWYwbzdtb2xsOWVpcWYydmwyc25lbGpjOWFhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HBT32wNRCwQXnxCXGr/giphy.gif" height='30' width="30"> 
 
 
