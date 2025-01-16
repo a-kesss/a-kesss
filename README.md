@@ -3,6 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h1>Hi, My name Azamat</h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -26,10 +27,9 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=a-kesss&style=flat-square&color=blue" alt="" align="center"/>
 </div>
-<h1 align="center">
-  Hi bro
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZibmJlYzRseWpmam1zZ3ZsczF1N2Z0OHZrbm0wcTFsbm81MXB3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="300"/>
+</div>
 
 </body>
 </html>
