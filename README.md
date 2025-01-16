@@ -28,7 +28,7 @@
 
 ### :computer: I can:
 
---- :dart: Develop React components.
+- :dart: Develop React components.
 
 - :game_die: Develop client application logic JS, React-Redux.
 
