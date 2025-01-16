@@ -20,7 +20,7 @@
 </div>
 
 <h2>
-    I am Frontend-Developer from Vladikavkaz 
+    I am Frontend-Developer from Vladikavkaz :white_heart: :heart: :yellow_heart:
 </h2>
 
 ### :computer: I can:
