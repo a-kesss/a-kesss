@@ -4,7 +4,7 @@
 </h1>
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/xnuF2hSsq55V5ODrt9/giphy.gif?cid=ecf05e47ove9jy7k37ryher2hpm9zy848304ua64dbr5el0h&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="400"/>
+    <img src="https://media.giphy.com/media/dLD88887PfEeQnmShM/giphy.gif?cid=ecf05e47ajxnpewxi5ayq264rxwsdry2s936777gq8qxclw2&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="400"/>
 </div>
 
 <div id="badges" align="center">
