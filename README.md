@@ -2,9 +2,6 @@
     Hi, My name Azamat
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div>
-    <h2>Frontend-Developer from Vladikavkaz</h2>
-</div>
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNnNGZmenl6cTYyYWc5d2gzamVvYjJjczEwNDZ3aGR6dmMxaHRmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H3JHrs7JC6duvenDW8/giphy.gif" width="300"/>
