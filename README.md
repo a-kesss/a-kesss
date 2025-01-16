@@ -5,6 +5,7 @@
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNnNGZmenl6cTYyYWc5d2gzamVvYjJjczEwNDZ3aGR6dmMxaHRmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H3JHrs7JC6duvenDW8/giphy.gif" width="300"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDMwcHc3b2t3cWh2ejFxdXBzcXZhdDNxc3JzdnhoMm81MmVuY3R2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/73530UkPEj7SUzURgR/giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
