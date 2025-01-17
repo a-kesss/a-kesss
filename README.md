@@ -25,15 +25,11 @@
 
 ### :computer: I can:
 
-- :dart: Develop React components.
+- :dart: Develop components in React.
 
-- :game_die: Develop client application logic JS, React-Redux.
+- :sunglasses: Confident knowledge of Redux, HTML, CSS.
 
-- :page_with_curl: Read and write readable code
-
-- :sunglasses: Confident knowledge of React, Redux, HTML, CSS (I can write styles without a framework),
-
-- :space_invader: I understand the standards of adaptive layout.
+- :space_invader: I understand the principles of adaptive layout
 
 - :globe_with_meridians: Have experience working with backend
 
