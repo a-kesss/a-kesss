@@ -11,7 +11,7 @@
     <a href="https://vk.com/kesaev1">
         <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"/>
     </a>
-    <a href="https://t.me/a_kesss">
+    <a href="https://t.me/akesaev">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
     </a>
 </div>
