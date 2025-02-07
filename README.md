@@ -29,6 +29,8 @@
 
 - :dizzy: Experience with TS (2+ years)
 
+- :pizza: Team development experience with using a control system Git versions(2+years)
+
 - :sunglasses: Confident knowledge of HTML, CSS
 
 - :luggage: Working with the Vite build system
@@ -38,10 +40,6 @@
 - :star2: Working with UI libraries
 
 - :globe_with_meridians: Working with Backend(PostgreSQL, ORM Sequelize)
-
-- :pizza: Team development experience with
-ᅠusing a control system
-ᅠGit versions(2+years)
 
 ---
 
