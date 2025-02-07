@@ -25,16 +25,23 @@
 
 ### :computer: I can:
 
-- :dart: Develop components in React.
+- :dart: Development of components in React (2+ years)
 
-- :sunglasses: Confident knowledge of Redux, HTML, CSS.
+- Experience with TS (2+ years)
+
+- :sunglasses: Confident knowledge of HTML, CSS
+
+- Working with the Vite build system
 
 - :space_invader: I understand the principles of adaptive layout
 
-- :globe_with_meridians: Have experience working with backend
+- Working with UI libraries
+
+- :globe_with_meridians: Working with Backend(PostgreSQL, ORM Sequelize)
 
 - :pizza: Team development experience with
-using the Git control system
+ᅠusing a control system
+ᅠGit versions(2+years)
 
 ---
 
