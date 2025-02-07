@@ -29,7 +29,7 @@
 
 - :dizzy: Experience with TS (2+ years)
 
-- :pizza: Team development experience with using a control system Git versions(2+years)
+- :pizza: Team development experience with using a control system Git versions (2+years)
 
 - :sunglasses: Confident knowledge of HTML, CSS
 
