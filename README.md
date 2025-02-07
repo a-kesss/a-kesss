@@ -27,15 +27,15 @@
 
 - :dart: Development of components in React (2+ years)
 
-- Experience with TS (2+ years)
+- :dizzy: Experience with TS (2+ years)
 
 - :sunglasses: Confident knowledge of HTML, CSS
 
-- Working with the Vite build system
+- :luggage: Working with the Vite build system
 
 - :space_invader: I understand the principles of adaptive layout
 
-- Working with UI libraries
+- :star2: Working with UI libraries
 
 - :globe_with_meridians: Working with Backend(PostgreSQL, ORM Sequelize)
 
