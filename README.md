@@ -25,11 +25,11 @@
 
 ### :computer: I can:
 
-- :dart: Development of components in React (2+ years)
+- :dart: Development of components in React (4+ years)
 
-- :dizzy: Experience with TS (2+ years)
+- :dizzy: Experience with TS (4+ years)
 
-- :pizza: Team development experience with using a control system Git versions (2+years)
+- :pizza: Team development experience with using a control system Git versions (4+years)
 
 - :sunglasses: Confident knowledge of HTML, CSS
 
